@@ -1,2 +1,3 @@
-# algorithms
-A repository containing algorithms, regardless of language.
+# Weather API
+
+A Spring Boot API to access current weather data.
